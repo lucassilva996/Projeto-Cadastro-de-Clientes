@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\bin\Release\netstandard2.0\DAL.deps.json
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\bin\Release\netstandard2.0\DAL.dll
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\bin\Release\netstandard2.0\DAL.pdb
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\obj\Release\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\obj\Release\netstandard2.0\DAL.dll
+C:\Users\Lucas\source\repos\Projeto-CadCliente-Asp-Net\DAL\obj\Release\netstandard2.0\DAL.pdb
